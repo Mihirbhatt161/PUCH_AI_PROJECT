@@ -33,8 +33,8 @@ PUCH_AI_PROJECT-main/
 ## 📦 Installation & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mihirbhatt161/ai-image-generator.git
-   cd ai-image-generator
+(https://github.com/Mihirbhatt161/PUCH_AI_PROJECT.git) 
+cd ai-image-generator
 
 ---
 
